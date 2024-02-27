@@ -1,0 +1,188 @@
+Interviewer  0:00  
+Thank you for joining our user study.
+
+Interviewer   0:04  
+We are starting dark patterns on web pages. And we're using the talk aloud  protocol.
+
+Interviewer   0:12  
+Dark patterns are deceptive design patterns, or user interfaces with deliberate design decisions incorporated to include outcomes favorable to the designer at the expense of the user.
+
+Interviewer   0:30  
+In this study, you will see a series of images for user interface interfaces as you engage with the image. Imagine that you are a user using a web page. speak aloud every action that you do as you do it.
+
+Interviewer  0:47  
+And explain why you're doing it. But do it without thinking about it. So just explain what you're doing as you do it.
+
+Interviewer 0:57  
+Please describe any dark patterns that you think are present their features and your perception of how they are deceptive.
+
+Interviewer  1:04  
+You may withdraw your consent from the study anytime. Are you ready to start?
+
+Participant  1:09  
+Yes
+
+Participant   1:15  
+free magazine
+
+Participant  1:23  
+No thanks is small.
+
+Participant  1:30  
+I
+
+Participant   1:34  
+personally think that nothing is free. So even though I click all these, they're probably going to ask for my personal data or whatever. So I usually just say, No thanks or exit but these are kind of small.
+
+Participant   1:48  
+But I will try to exit or 'no thanks' and then go to the other
+
+Interviewer  2:05
+Is that all?
+
+Participant 2:09  
+Right fair for me? I want to get the cheapest one for Basic, I don't think it's fair because it's the additional fees are a lot.
+
+Participant  2:27  
+So I would like there's no information about "for a fee", "for a fee" but there's no other additional information. So I don't think it's fair. They should put that how much. 
+
+Interviewer  2:39  
+if you were using this webpage. How would you try to bypass it for the design that you see that you've described? Or how would you try to use it?
+
+Participant 2:52  
+Click it to find out additional information about what are the hidden fees to try to compare or the table the total budget will be for plus or basic. 
+
+Interviewer   3:04
+Is there anything else?
+
+Participant  3:08  
+I don't know. Usually I try to click more to find additional information. And it's even okay if 
+
+Interviewer (This is a control). 3:16
+Image 3.     
+
+Participant  3:20  
+This is typical login page I always see
+
+Participant  3:30  
+so I don't know whether it's dark pattern or or not but it probably just easier to just doing using just google chrome then continue with Google.
+
+Participant  3:41  
+But then it'll didn't explain anything about it's giving the consent to sending my data to whatever the website
+
+Interviewer  3:51  
+Image 4
+
+Participant  3:55  
+Do not uncheck this box
+
+Participant  4:01  
+that's deceiving do not uncheck this box
+
+Interviewer  4:07  
+So as a user, what would you do?
+
+Participant   4:13  
+Decision Making people confused if I check this box because people usually just don't think about it just check it or not check it
+
+Participant  4:22  
+if you wish to contact via email, so I don't want to check this.
+
+UParticipant  4:27  
+But do not check this box. If you wish to so it's kind of they Yeah, making people check it but I don't want usually check it  to get additional thing, so it's deceiving.
+
+Interviewer 4:51  
+Image 5
+
+Unknown Speaker  4:53  
+contacts. I have to check these there. I don't get any. So that's extra work you need to do to check all of this otherwise they're gonna bug me. So is deceiving, a dark pattern
+
+Interviewer 5:02
+you see anything else?
+
+Participant 5:06
+I don't know
+
+Interviewer  5:09  
+Okay, image six
+
+Participant   5:14  
+What is this?
+
+Participant  5:16  
+Don't Insure me.
+
+Participant  5:19  
+You have to like check this tool not to use it is a dark pattern, an additional step that people need to do to not to use that whatever the hidden services or extra costs.
+
+Participant   5:35  
+They don't want me to begin with on my experience in German, the German travel insurance company that I checked it once and they cost me two years of fees
+
+Interviewer
+two years of fees. 
+
+Participant
+Yes. And it was because I didn't go further and it was all German that signed you up with a subscription for a checkbox. That you didn't that you weren't made aware of originally, and then I didn't know that.
+
+Participant 6:06  
+It's automatically renewed that you have to send a physical letter to the physical address. There's no way to cancel that online.
+
+Participant 6:16  
+And I wasn't aware of that policy in Germany and then it caused me like for two years of subscription that I didn't even know that I had - this is definitely a dark pattern 
+
+Interviewer   6:25
+this is an image seven I apologize
+
+Participant  6:31  
+you're not good at your job.
+
+Interviewer   6:36  
+It's mis-labeled 
+
+Participant 6:39
+Sign in with your account continue to google or click this. I see this a lot.
+
+Participant 6:45  
+I don't know, I just put, if I remember that that websites login ID and password I do it but oftentimes it's like this like you have an Apple or Google big company, right, Microsoft, and you sometimes it's easy then you just login with whatever big company you're using. 
+
+Interviewer 7:02  
+OK. Image 8
+
+Unknown Speaker  7:13  
+so one is continuing. The other one says more information, then it's going to give you this, this this, So the first one is deceiving.
+
+Unknown Speaker  7:24  
+So I would pick the second one. Then as we read about it 
+
+Interviewer   7:30
+so in this case, this is actually two actions. So this is what happens when you click that down arrow.
+
+Unknown Speaker  7:37  
+Oh, more info than less info. So you need to click on it so its a dark pattern
+
+Participant  7:52
+
+Unknown Speaker  7:51  
+Donation without donation is what's happening here
+
+Unknown Speaker  8:05  
+Yeah, a lot of places have this thing to make you feel bad if you don't donate.
+
+Interviewer  8:13  
+Do you see anything else?
+
+Participant  8:22  
+Do I need to read all of this?
+
+Interviewer
+I was just asking
+
+Participant 8:37  
+{unintelligible} You can see the whole ticket
+
+Participant 8:45  
+I don't see anything else
+
+Interviewer
+Thank you so much. We may now close the zoom session
+
